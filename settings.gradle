@@ -1,0 +1,4 @@
+rootProject.name = 'advanced-study'
+
+include 'advanced-first-part'
+include 'advanced-proxy-start'
